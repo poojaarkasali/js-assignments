@@ -33,7 +33,7 @@
  *
  */
 function* get99BottlesOfBeer() {
-    throw new Error('Not implemented');
+    return "pooja";
 }
 
 
